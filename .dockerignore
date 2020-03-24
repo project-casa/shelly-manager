@@ -1,0 +1,10 @@
+.git
+.gitattributes
+.github
+.gitignore
+.gitkeep
+Thumbs.db
+
+.docker-volumes/
+frontend/
+vendor/
